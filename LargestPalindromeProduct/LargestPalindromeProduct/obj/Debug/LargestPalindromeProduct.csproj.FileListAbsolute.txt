@@ -1,0 +1,6 @@
+E:\Shyful\Day2\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe.config
+E:\Shyful\Day2\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe
+E:\Shyful\Day2\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.pdb
+E:\Shyful\Day2\LargestPalindromeProduct\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.csprojResolveAssemblyReference.cache
+E:\Shyful\Day2\LargestPalindromeProduct\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.exe
+E:\Shyful\Day2\LargestPalindromeProduct\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.pdb

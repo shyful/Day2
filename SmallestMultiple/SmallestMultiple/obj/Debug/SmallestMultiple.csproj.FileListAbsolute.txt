@@ -1,0 +1,6 @@
+E:\Shyful\Day2\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+E:\Shyful\Day2\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+E:\Shyful\Day2\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+E:\Shyful\Day2\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.csprojResolveAssemblyReference.cache
+E:\Shyful\Day2\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+E:\Shyful\Day2\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.pdb

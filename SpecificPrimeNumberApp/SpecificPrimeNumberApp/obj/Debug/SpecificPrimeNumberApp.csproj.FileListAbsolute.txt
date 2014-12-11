@@ -1,0 +1,6 @@
+E:\Shyful\Day2\SpecificPrimeNumberApp\SpecificPrimeNumberApp\bin\Debug\SpecificPrimeNumberApp.exe.config
+E:\Shyful\Day2\SpecificPrimeNumberApp\SpecificPrimeNumberApp\bin\Debug\SpecificPrimeNumberApp.exe
+E:\Shyful\Day2\SpecificPrimeNumberApp\SpecificPrimeNumberApp\bin\Debug\SpecificPrimeNumberApp.pdb
+E:\Shyful\Day2\SpecificPrimeNumberApp\SpecificPrimeNumberApp\obj\Debug\SpecificPrimeNumberApp.csprojResolveAssemblyReference.cache
+E:\Shyful\Day2\SpecificPrimeNumberApp\SpecificPrimeNumberApp\obj\Debug\SpecificPrimeNumberApp.exe
+E:\Shyful\Day2\SpecificPrimeNumberApp\SpecificPrimeNumberApp\obj\Debug\SpecificPrimeNumberApp.pdb

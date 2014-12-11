@@ -1,0 +1,6 @@
+D:\Shyful\SumOfMultiplication\SumOfMultiplication\bin\Debug\SumOfMultiplication.exe.config
+D:\Shyful\SumOfMultiplication\SumOfMultiplication\bin\Debug\SumOfMultiplication.exe
+D:\Shyful\SumOfMultiplication\SumOfMultiplication\bin\Debug\SumOfMultiplication.pdb
+D:\Shyful\SumOfMultiplication\SumOfMultiplication\obj\Debug\SumOfMultiplication.csprojResolveAssemblyReference.cache
+D:\Shyful\SumOfMultiplication\SumOfMultiplication\obj\Debug\SumOfMultiplication.exe
+D:\Shyful\SumOfMultiplication\SumOfMultiplication\obj\Debug\SumOfMultiplication.pdb

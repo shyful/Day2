@@ -1,0 +1,6 @@
+E:\Shyful\Day2\SumSquareDiffApp\SumSquareDiffApp\bin\Debug\SumSquareDiffApp.exe.config
+E:\Shyful\Day2\SumSquareDiffApp\SumSquareDiffApp\bin\Debug\SumSquareDiffApp.exe
+E:\Shyful\Day2\SumSquareDiffApp\SumSquareDiffApp\bin\Debug\SumSquareDiffApp.pdb
+E:\Shyful\Day2\SumSquareDiffApp\SumSquareDiffApp\obj\Debug\SumSquareDiffApp.csprojResolveAssemblyReference.cache
+E:\Shyful\Day2\SumSquareDiffApp\SumSquareDiffApp\obj\Debug\SumSquareDiffApp.exe
+E:\Shyful\Day2\SumSquareDiffApp\SumSquareDiffApp\obj\Debug\SumSquareDiffApp.pdb
